@@ -1,5 +1,0 @@
-C:\Users\Lenovo\source\repos\Lab4_ind1(3)\Lab4_ind1(3)\obj\Debug\net5.0\Lab4_ind1(3).csproj.AssemblyReference.cache
-C:\Users\Lenovo\source\repos\Lab4_ind1(3)\Lab4_ind1(3)\obj\Debug\net5.0\Lab4_ind1(3).GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Lenovo\source\repos\Lab4_ind1(3)\Lab4_ind1(3)\obj\Debug\net5.0\Lab4_ind1(3).AssemblyInfoInputs.cache
-C:\Users\Lenovo\source\repos\Lab4_ind1(3)\Lab4_ind1(3)\obj\Debug\net5.0\Lab4_ind1(3).AssemblyInfo.cs
-C:\Users\Lenovo\source\repos\Lab4_ind1(3)\Lab4_ind1(3)\obj\Debug\net5.0\Lab4_ind1(3).csproj.CoreCompileInputs.cache
