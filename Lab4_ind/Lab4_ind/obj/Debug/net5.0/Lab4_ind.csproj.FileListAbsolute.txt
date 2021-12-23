@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Lab4_ind\Lab4_ind\bin\Debug\net5.0\Lab4_ind.exe
+C:\Users\Lenovo\source\repos\Lab4_ind\Lab4_ind\bin\Debug\net5.0\Lab4_ind.deps.json
+C:\Users\Lenovo\source\repos\Lab4_ind\Lab4_ind\bin\Debug\net5.0\Lab4_ind.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Lab4_ind\Lab4_ind\bin\Debug\net5.0\Lab4_ind.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Lab4_ind\Lab4_ind\bin\Debug\net5.0\Lab4_ind.dll
+C:\Users\Lenovo\source\repos\Lab4_ind\Lab4_ind\bin\Debug\net5.0\ref\Lab4_ind.dll
+C:\Users\Lenovo\source\repos\Lab4_ind\Lab4_ind\bin\Debug\net5.0\Lab4_ind.pdb
+C:\Users\Lenovo\source\repos\Lab4_ind\Lab4_ind\obj\Debug\net5.0\Lab4_ind.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Lab4_ind\Lab4_ind\obj\Debug\net5.0\Lab4_ind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Lab4_ind\Lab4_ind\obj\Debug\net5.0\Lab4_ind.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Lab4_ind\Lab4_ind\obj\Debug\net5.0\Lab4_ind.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Lab4_ind\Lab4_ind\obj\Debug\net5.0\Lab4_ind.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Lab4_ind\Lab4_ind\obj\Debug\net5.0\Lab4_ind.dll
+C:\Users\Lenovo\source\repos\Lab4_ind\Lab4_ind\obj\Debug\net5.0\ref\Lab4_ind.dll
+C:\Users\Lenovo\source\repos\Lab4_ind\Lab4_ind\obj\Debug\net5.0\Lab4_ind.pdb
+C:\Users\Lenovo\source\repos\Lab4_ind\Lab4_ind\obj\Debug\net5.0\Lab4_ind.genruntimeconfig.cache
